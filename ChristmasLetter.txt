@@ -11,3 +11,6 @@ A) Leo Gift:
    - Cutter
    - Castle
    - Robot transformer
+B) Stefy Gift:
+   - Jacket
+   - Perfume
